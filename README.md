@@ -15,6 +15,11 @@ Everything is containerized using **Docker**, allowing consistent, isolated, and
 
 Before diving into the code and commands, here are the **core Docker terms** used in this project:
 
+<img width="1019" height="378" alt="image" src="https://github.com/user-attachments/assets/8473e227-4182-43b3-b284-12f3ae4d42e1" />
+
+<img width="1014" height="398" alt="image" src="https://github.com/user-attachments/assets/8a0f237b-00fb-4ed9-81e3-52393e6909a6" />
+
+
 | Term | Explanation |
 |------|-----------|
 | **`Container`** | A lightweight, isolated runtime environment that runs your app with its dependencies. Think of it as a mini-VM, but faster and more efficient. |
